@@ -14,7 +14,6 @@ Previously an intern at **Fermilab**, where I contributed to the **HEPCloud Deci
 
 - **HEPCloud Decision Engine:** Contributed to scientific computing software, monitoring dashboards, and metrics.
 - **HEPCloud Decision Engine Modules:** Worked within a modular Python software framework.
-- **HEPCloud Contrib:** Contributed to cloud benchmarking and supporting infrastructure.
 
 ## Education
 
