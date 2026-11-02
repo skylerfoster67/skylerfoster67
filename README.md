@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**skylerfoster67/skylerfoster67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Astrophysics graduate with experience in scientific computing, software development, and computational research.
 
-Here are some ideas to get you started:
+Previously an intern at **Fermilab**, where I contributed to the **HEPCloud Decision Engine** and **GlideinWMS** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** Python, Linux/Bash
+- **Tools:** Git, GitHub, Grafana, Prometheus
+- **Areas:** Scientific Computing, Data Processing, Cloud Infrastructure, Performance Monitoring
+
+## Selected Experience
+
+- **HEPCloud Decision Engine:** Contributed to scientific computing software, monitoring dashboards, and metrics.
+- **HEPCloud Decision Engine Modules:** Worked within a modular Python software framework.
+- **HEPCloud Contrib:** Contributed to cloud benchmarking and supporting infrastructure.
+
+## Education
+
+**MSc Astrophysics** — University College London (UCL)
